@@ -1,0 +1,1167 @@
+﻿Log file open, 06/25/19 17:36:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BomberBoiz
+LogInit: Display: Project file not found: ../../../BomberBoiz/BomberBoiz.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(381133229) SRandInit(381133229).
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281933
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for i386-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (32-bit): Nov 14 2017 02:18:38
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/BomberBois/WindowsNoEditor/Engine/Binaries/Win32/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+[2019.06.25-22.36.38:922][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.06.25-22.36.38:922][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.06.25-22.36.38:929][  0]LogInit: Computer: JASON-WINDOWS
+[2019.06.25-22.36.38:929][  0]LogInit: User: chand
+[2019.06.25-22.36.38:929][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.25-22.36.38:929][  0]LogInit: High frequency timer resolution =2.156251 MHz
+[2019.06.25-22.36.38:929][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=4.0GB
+[2019.06.25-22.36.38:929][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.06.25-22.36.38:929][  0]LogMemory: Process Physical Memory: 73.05 MB used, 73.05 MB peak
+[2019.06.25-22.36.38:929][  0]LogMemory: Process Virtual Memory: 88.11 MB used, 88.11 MB peak
+[2019.06.25-22.36.38:929][  0]LogMemory: Physical Memory: 6803.04 MB used,  9503.96 MB free, 16307.00 MB total
+[2019.06.25-22.36.38:929][  0]LogMemory: Virtual Memory: 295.12 MB used,  9503.96 MB free, 4095.88 MB total
+[2019.06.25-22.36.39:519][  0]LogInit: Using OS detected language (en-US).
+[2019.06.25-22.36.39:519][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.25-22.36.39:520][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.25-22.36.39:578][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.25-22.36.39:657][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.06.25-22.36.39:657][  0]LogD3D11RHI:       3072/0/1023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.25-22.36.39:659][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.25-22.36.39:659][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.25-22.36.39:659][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.25-22.36.39:668][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.25-22.36.39:668][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.25-22.36.39:668][  0]LogWindows: EnumDisplayDevices:
+[2019.06.25-22.36.39:668][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.06.25-22.36.39:669][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.25-22.36.39:669][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.25-22.36.39:669][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.25-22.36.39:669][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.25-22.36.39:669][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.06.25-22.36.39:669][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.25-22.36.39:669][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.25-22.36.39:669][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
+[2019.06.25-22.36.39:717][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.25-22.36.39:755][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.25-22.36.39:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.25-22.36.39:812][  0]LogSlate: Using Freetype 2.6.0
+[2019.06.25-22.36.39:812][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.25-22.36.39:813][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.25-22.36.39:877][  0]LogAssetRegistry: FAssetRegistry took 0.0130 seconds to start up
+[2019.06.25-22.36.39:978][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.006249 seconds
+[2019.06.25-22.36.39:978][  0]LogPakFile: New pak file ../../../BomberBoiz/Content/Paks/BomberBoiz-WindowsNoEditor.pak added to pak precacher.
+[2019.06.25-22.36.39:980][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.06.25-22.36.40:025][  0]LogNetVersion: BomberBoiz , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2301335220)
+[2019.06.25-22.36.40:106][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.06.25-22.36.40:121][  0]LogMoviePlayer: Initializing movie player
+[2019.06.25-22.36.40:191][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.25-22.36.40:191][  0]LogOcInput: OculusInput pre-init called
+[2019.06.25-22.36.40:195][  0]LogUObjectArray: 30863 objects as part of root set at end of initial load.
+[2019.06.25-22.36.40:195][  0]LogUObjectAllocator: 4287380 out of 0 bytes used by permanent object pool.
+[2019.06.25-22.36.40:195][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.25-22.36.40:206][  0]LogEngine: Initializing Engine...
+[2019.06.25-22.36.40:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.25-22.36.40:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-22.36.40:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-22.36.40:358][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.25-22.36.40:449][  0]LogInit: FAudioDevice initialized.
+[2019.06.25-22.36.40:461][  0]LogInit: Texture streaming: Enabled
+[2019.06.25-22.36.40:466][  0]LogInit: Display: Game Engine Initialized.
+[2019.06.25-22.36.40:466][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.25-22.36.40:477][  0]LogInit: Display: Starting Game.
+[2019.06.25-22.36.40:477][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2019.06.25-22.36.40:478][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2019.06.25-22.36.40:809][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.36.40:811][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.36.40:819][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.36.40
+[2019.06.25-22.36.40:823][  0]LogWorld: Bringing up level for play took: 0.012021
+[2019.06.25-22.36.40:825][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.36.40:826][  0]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.36.40:826][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2019.06.25-22.36.40:827][  0]LogLoad: Took 0.349741 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.36.41:137][  0]LogLoad: (Engine Initialization) Total time: 2.75 seconds
+[2019.06.25-22.36.41:137][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.06.25-22.36.41:202][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-22.36.41:282][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.25-22.36.43:951][164]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.36.51:950][659]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.36.51:950][659]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.36.52:314][659]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.36.52:315][659]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.36.52:320][659]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.36.52
+[2019.06.25-22.36.52:323][659]LogWorld: Bringing up level for play took: 0.007462
+[2019.06.25-22.36.52:325][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.36.52:326][659]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.36.52:328][659]LogLoad: Took 0.378520 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.37.23:182][551]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.37.31:181][ 46]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.31:182][ 46]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.31:570][ 46]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.37.31:573][ 46]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.37.31:586][ 46]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.37.31
+[2019.06.25-22.37.31:592][ 46]LogWorld: Bringing up level for play took: 0.018057
+[2019.06.25-22.37.31:594][ 46]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.37.31:595][ 46]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.37.31:597][ 46]LogLoad: Took 0.415139 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.37.33:745][166]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.37.33:745][166]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.37.41:746][662]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.41:747][662]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.42:234][662]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.37.42:237][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.37.42:244][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.37.42
+[2019.06.25-22.37.42:247][662]LogWorld: Bringing up level for play took: 0.009278
+[2019.06.25-22.37.42:249][662]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.37.42:249][662]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.37.42:251][662]LogLoad: Took 0.504963 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.37.44:403][784]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.37.56:411][527]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.56:412][527]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.37.56:855][527]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.37.56:859][527]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.37.56:872][527]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.37.56
+[2019.06.25-22.37.56:875][527]LogWorld: Bringing up level for play took: 0.013322
+[2019.06.25-22.37.56:877][527]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.37.56:878][527]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.37.56:879][527]LogLoad: Took 0.468143 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.37.59:033][656]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.38.07:044][151]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.07:045][151]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.07:607][151]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.38.07:610][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.38.07:620][151]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.38.07
+[2019.06.25-22.38.07:626][151]LogWorld: Bringing up level for play took: 0.014224
+[2019.06.25-22.38.07:628][151]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.38.07:629][151]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.38.07:631][151]LogLoad: Took 0.587144 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.38.09:789][279]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.38.17:793][774]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.17:793][774]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.18:272][774]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.38.18:282][774]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.38.18:292][774]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.38.18
+[2019.06.25-22.38.18:298][774]LogWorld: Bringing up level for play took: 0.015086
+[2019.06.25-22.38.18:299][774]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.38.18:300][774]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.38.18:302][774]LogLoad: Took 0.509111 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.38.20:451][900]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.38.32:451][643]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.32:452][643]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.32:883][643]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.38.32:885][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.38.32:892][643]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.38.32
+[2019.06.25-22.38.32:900][643]LogWorld: Bringing up level for play took: 0.013210
+[2019.06.25-22.38.32:901][643]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.38.32:902][643]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.38.32:905][643]LogLoad: Took 0.453380 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.38.35:128][754]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.38.43:128][249]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.43:128][249]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.43:631][249]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.38.43:636][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.38.43:645][249]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.38.43
+[2019.06.25-22.38.43:650][249]LogWorld: Bringing up level for play took: 0.011949
+[2019.06.25-22.38.43:652][249]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.38.43:654][249]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.38.43:656][249]LogLoad: Took 0.528995 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.38.45:913][360]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.38.53:911][855]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.53:912][855]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.38.54:458][855]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.38.54:461][855]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.38.54:473][855]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.38.54
+[2019.06.25-22.38.54:478][855]LogWorld: Bringing up level for play took: 0.010574
+[2019.06.25-22.38.54:479][855]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.38.54:480][855]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.38.54:481][855]LogLoad: Took 0.568867 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.38.56:635][975]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.39.08:634][718]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.08:634][718]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.09:194][718]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.39.09:196][718]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.39.09:206][718]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.39.09
+[2019.06.25-22.39.09:210][718]LogWorld: Bringing up level for play took: 0.012107
+[2019.06.25-22.39.09:212][718]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.39.09:212][718]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.39.09:215][718]LogLoad: Took 0.580838 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.39.11:373][833]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.39.19:378][328]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.19:378][328]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.19:967][328]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.39.19:969][328]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.39.19:978][328]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.39.19
+[2019.06.25-22.39.19:983][328]LogWorld: Bringing up level for play took: 0.012593
+[2019.06.25-22.39.19:986][328]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.39.19:987][328]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.39.19:991][328]LogLoad: Took 0.611943 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.39.22:149][447]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.39.30:161][942]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.30:161][942]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.30:799][942]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.39.30:801][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.39.30:811][942]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.39.30
+[2019.06.25-22.39.30:816][942]LogWorld: Bringing up level for play took: 0.012103
+[2019.06.25-22.39.30:818][942]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.39.30:819][942]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.39.30:821][942]LogLoad: Took 0.660906 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.39.32:969][ 65]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.39.44:969][808]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.44:969][808]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.45:687][808]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.39.45:689][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.39.45:700][808]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.39.45
+[2019.06.25-22.39.45:704][808]LogWorld: Bringing up level for play took: 0.013406
+[2019.06.25-22.39.45:706][808]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.39.45:708][808]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.39.45:710][808]LogLoad: Took 0.741081 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.39.47:872][925]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.39.47:873][925]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.39.55:872][421]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.55:872][421]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.39.56:534][421]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.39.56:540][421]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.39.56:557][421]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.39.56
+[2019.06.25-22.39.56:563][421]LogWorld: Bringing up level for play took: 0.021187
+[2019.06.25-22.39.56:565][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.39.56:566][421]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.39.56:569][421]LogLoad: Took 0.696375 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.39.58:714][550]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.40.06:713][ 45]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.06:713][ 45]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.07:415][ 45]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.40.07:417][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.40.07:426][ 45]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.40.07
+[2019.06.25-22.40.07:429][ 45]LogWorld: Bringing up level for play took: 0.010641
+[2019.06.25-22.40.07:433][ 45]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.40.07:434][ 45]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.40.07:437][ 45]LogLoad: Took 0.724214 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.40.09:588][169]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.40.21:588][912]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.21:589][912]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.22:048][912]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.40.22:051][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.40.22:061][912]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.40.22
+[2019.06.25-22.40.22:066][912]LogWorld: Bringing up level for play took: 0.013622
+[2019.06.25-22.40.22:068][912]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.40.22:069][912]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.40.22:072][912]LogLoad: Took 0.483273 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.40.24:215][ 38]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.40.24:215][ 38]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.40.32:218][534]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.32:218][534]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.32:695][534]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.40.32:697][534]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.40.32:706][534]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.40.32
+[2019.06.25-22.40.32:711][534]LogWorld: Bringing up level for play took: 0.012322
+[2019.06.25-22.40.32:712][534]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.40.32:715][534]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.40.32:716][534]LogLoad: Took 0.497722 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.40.34:874][656]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.40.42:889][ 93]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.42:889][ 93]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.43:376][ 93]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.40.43:379][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.40.43:389][ 93]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.40.43
+[2019.06.25-22.40.43:393][ 93]LogWorld: Bringing up level for play took: 0.012976
+[2019.06.25-22.40.43:396][ 93]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.40.43:396][ 93]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.40.43:399][ 93]LogLoad: Took 0.509134 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.40.45:549][216]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.40.57:552][959]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.57:553][959]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.40.58:045][959]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.40.58:048][959]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.40.58:057][959]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.40.58
+[2019.06.25-22.40.58:061][959]LogWorld: Bringing up level for play took: 0.011600
+[2019.06.25-22.40.58:063][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.40.58:064][959]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.40.58:066][959]LogLoad: Took 0.513621 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.00:356][ 70]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.41.08:363][564]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.08:363][564]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.08:896][564]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.41.08:901][564]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.41.08:914][564]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.41.08
+[2019.06.25-22.41.08:920][564]LogWorld: Bringing up level for play took: 0.018077
+[2019.06.25-22.41.08:921][564]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.41.08:923][564]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.41.08:925][564]LogLoad: Took 0.561951 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.11:074][692]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.41.19:074][187]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.19:074][187]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.19:559][187]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.41.19:562][187]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.41.19:572][187]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.41.19
+[2019.06.25-22.41.19:576][187]LogWorld: Bringing up level for play took: 0.012243
+[2019.06.25-22.41.19:577][187]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.41.19:578][187]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.41.19:579][187]LogLoad: Took 0.505279 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.21:734][318]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.41.33:740][ 61]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.33:740][ 61]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.34:194][ 61]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.41.34:196][ 61]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.41.34:207][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.41.34
+[2019.06.25-22.41.34:212][ 61]LogWorld: Bringing up level for play took: 0.014122
+[2019.06.25-22.41.34:214][ 61]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.41.34:215][ 61]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.41.34:219][ 61]LogLoad: Took 0.478924 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.36:370][193]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.41.44:369][688]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.44:370][688]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.44:800][688]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.41.44:803][688]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.41.44:811][688]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.41.44
+[2019.06.25-22.41.44:816][688]LogWorld: Bringing up level for play took: 0.011546
+[2019.06.25-22.41.44:818][688]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.41.44:819][688]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.41.44:821][688]LogLoad: Took 0.451454 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.46:980][819]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.41.46:980][819]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.41.54:983][315]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.54:984][315]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.41.55:460][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.41.55:462][315]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.41.55:473][315]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.41.55
+[2019.06.25-22.41.55:476][315]LogWorld: Bringing up level for play took: 0.012389
+[2019.06.25-22.41.55:478][315]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.41.55:478][315]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.41.55:480][315]LogLoad: Took 0.496042 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.41.57:633][445]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.41.57:633][445]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.42.09:640][189]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.09:640][189]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.10:134][189]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.42.10:136][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.42.10:151][189]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.42.10
+[2019.06.25-22.42.10:158][189]LogWorld: Bringing up level for play took: 0.016563
+[2019.06.25-22.42.10:160][189]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.42.10:160][189]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.42.10:164][189]LogLoad: Took 0.522944 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.42.12:319][315]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.42.20:321][810]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.20:321][810]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.21:116][810]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.42.21:120][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.42.21:132][810]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.42.21
+[2019.06.25-22.42.21:138][810]LogWorld: Bringing up level for play took: 0.017196
+[2019.06.25-22.42.21:141][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.42.21:142][810]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.42.21:146][810]LogLoad: Took 0.823577 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.42.23:305][939]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.42.31:312][434]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.31:312][434]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.31:895][434]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.42.31:897][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.42.31:917][434]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.42.31
+[2019.06.25-22.42.31:923][434]LogWorld: Bringing up level for play took: 0.023749
+[2019.06.25-22.42.31:925][434]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.42.31:926][434]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.42.31:929][434]LogLoad: Took 0.615868 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.42.34:080][562]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.42.46:092][303]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.46:093][303]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.46:795][303]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.42.46:798][303]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.42.46:813][303]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.42.46
+[2019.06.25-22.42.46:822][303]LogWorld: Bringing up level for play took: 0.021172
+[2019.06.25-22.42.46:824][303]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.42.46:825][303]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.42.46:828][303]LogLoad: Took 0.735531 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.42.48:984][430]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.42.57:008][924]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.57:008][924]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.42.57:668][924]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.42.57:670][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.42.57:686][924]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.42.57
+[2019.06.25-22.42.57:695][924]LogWorld: Bringing up level for play took: 0.021551
+[2019.06.25-22.42.57:697][924]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.42.57:699][924]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.42.57:702][924]LogLoad: Took 0.693087 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.42.59:855][ 46]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.43.07:936][439]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.08:000][439]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.08:462][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.43.08:464][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.43.08:482][439]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.43.08
+[2019.06.25-22.43.08:487][439]LogWorld: Bringing up level for play took: 0.021674
+[2019.06.25-22.43.08:488][439]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.43.08:491][439]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.43.08:494][439]LogLoad: Took 0.493422 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.43.08:500][440]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064106 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.25-22.43.08:500][440]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064106 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter2', movement 'Walking'
+[2019.06.25-22.43.10:655][569]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.43.22:655][253]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.22:655][253]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.23:163][253]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.43.23:166][253]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.43.23:181][253]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.43.23
+[2019.06.25-22.43.23:184][253]LogWorld: Bringing up level for play took: 0.016922
+[2019.06.25-22.43.23:185][253]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.43.23:187][253]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.43.23:189][253]LogLoad: Took 0.533248 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.43.25:345][385]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.43.33:347][878]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.33:347][878]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.33:922][878]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.43.33:925][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.43.33:940][878]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.43.33
+[2019.06.25-22.43.33:947][878]LogWorld: Bringing up level for play took: 0.018954
+[2019.06.25-22.43.33:949][878]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.43.33:949][878]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.43.33:950][878]LogLoad: Took 0.604021 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.43.36:106][  5]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.43.36:106][  5]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.43.44:108][501]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.44:108][501]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.44:684][501]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.43.44:688][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.43.44:703][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.43.44
+[2019.06.25-22.43.44:708][501]LogWorld: Bringing up level for play took: 0.018997
+[2019.06.25-22.43.44:712][501]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.43.44:713][501]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.43.44:715][501]LogLoad: Took 0.607503 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.43.46:874][631]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.43.58:884][373]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.58:884][373]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.43.59:414][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.43.59:416][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.43.59:431][373]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.43.59
+[2019.06.25-22.43.59:436][373]LogWorld: Bringing up level for play took: 0.017347
+[2019.06.25-22.43.59:439][373]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.43.59:439][373]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.43.59:442][373]LogLoad: Took 0.557313 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.01:599][497]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.44.09:597][992]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.09:597][992]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.10:113][992]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.44.10:117][992]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.44.10:131][992]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.44.10
+[2019.06.25-22.44.10:137][992]LogWorld: Bringing up level for play took: 0.017597
+[2019.06.25-22.44.10:139][992]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.44.10:140][992]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.44.10:142][992]LogLoad: Took 0.545052 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.12:302][121]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.44.20:312][616]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.20:313][616]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.20:879][616]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.44.20:883][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.44.20:896][616]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.44.20
+[2019.06.25-22.44.20:903][616]LogWorld: Bringing up level for play took: 0.018304
+[2019.06.25-22.44.20:905][616]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.44.20:907][616]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.44.20:909][616]LogLoad: Took 0.596814 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.23:059][746]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.44.35:064][489]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.35:064][489]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.35:814][489]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.44.35:820][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.44.35:838][489]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.44.35
+[2019.06.25-22.44.35:844][489]LogWorld: Bringing up level for play took: 0.021567
+[2019.06.25-22.44.35:847][489]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.44.35:848][489]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.44.35:850][489]LogLoad: Took 0.786359 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.38:009][617]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.44.38:009][617]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.44.46:013][111]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.46:013][111]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.46:524][111]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.44.46:527][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.44.46:539][111]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.44.46
+[2019.06.25-22.44.46:545][111]LogWorld: Bringing up level for play took: 0.015368
+[2019.06.25-22.44.46:548][111]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.44.46:549][111]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.44.46:551][111]LogLoad: Took 0.537214 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.48:703][242]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.44.56:704][735]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.56:704][735]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.44.57:246][735]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.44.57:250][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.44.57:262][735]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.44.57
+[2019.06.25-22.44.57:266][735]LogWorld: Bringing up level for play took: 0.014072
+[2019.06.25-22.44.57:268][735]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.44.57:269][735]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.44.57:271][735]LogLoad: Took 0.566168 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.44.59:422][866]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.45.11:457][609]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.11:458][609]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.11:971][609]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.45.11:974][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.45.11:988][609]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.45.11
+[2019.06.25-22.45.11:995][609]LogWorld: Bringing up level for play took: 0.017890
+[2019.06.25-22.45.11:997][609]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.45.11:998][609]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.45.12:000][609]LogLoad: Took 0.542734 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.45.14:158][740]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.45.22:167][235]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.22:167][235]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.22:684][235]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.45.22:686][235]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.45.22:697][235]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.45.22
+[2019.06.25-22.45.22:704][235]LogWorld: Bringing up level for play took: 0.016070
+[2019.06.25-22.45.22:706][235]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.45.22:707][235]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.45.22:709][235]LogLoad: Took 0.542181 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.45.24:863][365]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.45.32:870][859]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.32:870][859]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.33:426][859]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.45.33:429][859]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.45.33:439][859]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.45.33
+[2019.06.25-22.45.33:444][859]LogWorld: Bringing up level for play took: 0.012369
+[2019.06.25-22.45.33:446][859]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.45.33:446][859]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.45.33:449][859]LogLoad: Took 0.578802 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.45.35:609][910]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.45.47:561][633]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.47:561][633]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.48:120][633]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.45.48:122][633]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.45.48:134][633]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.45.48
+[2019.06.25-22.45.48:137][633]LogWorld: Bringing up level for play took: 0.013948
+[2019.06.25-22.45.48:139][633]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.45.48:139][633]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.45.48:141][633]LogLoad: Took 0.581193 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.45.50:285][764]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.45.58:304][198]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.58:305][198]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.45.58:822][198]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.45.58:825][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.45.58:835][198]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.45.58
+[2019.06.25-22.45.58:842][198]LogWorld: Bringing up level for play took: 0.015186
+[2019.06.25-22.45.58:843][198]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.45.58:844][198]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.45.58:847][198]LogLoad: Took 0.541372 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.46.01:006][329]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.46.09:048][648]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.09:049][648]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.09:592][648]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.46.09:595][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.46.09:605][648]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.46.09
+[2019.06.25-22.46.09:609][648]LogWorld: Bringing up level for play took: 0.012589
+[2019.06.25-22.46.09:611][648]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.46.09:612][648]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.46.09:614][648]LogLoad: Took 0.565434 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.46.11:760][759]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.46.23:760][502]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.23:761][502]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.24:243][502]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.46.24:245][502]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.46.24:253][502]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.46.24
+[2019.06.25-22.46.24:257][502]LogWorld: Bringing up level for play took: 0.010266
+[2019.06.25-22.46.24:258][502]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.46.24:259][502]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.46.24:260][502]LogLoad: Took 0.499868 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.46.26:407][624]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.46.34:409][119]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.34:409][119]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.34:946][119]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.46.34:949][119]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.46.34:962][119]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.46.34
+[2019.06.25-22.46.34:967][119]LogWorld: Bringing up level for play took: 0.016166
+[2019.06.25-22.46.34:969][119]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.46.34:970][119]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.46.34:973][119]LogLoad: Took 0.562675 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.46.37:119][244]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.46.45:130][739]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.45:130][739]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.46.45:843][739]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.46.45:845][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.46.45:858][739]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.46.45
+[2019.06.25-22.46.45:863][739]LogWorld: Bringing up level for play took: 0.016093
+[2019.06.25-22.46.45:864][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.46.45:865][739]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.46.45:867][739]LogLoad: Took 0.736431 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.46.48:016][854]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.00:019][597]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.00:020][597]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.00:779][597]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.00:782][597]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.00:794][597]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.00
+[2019.06.25-22.47.00:800][597]LogWorld: Bringing up level for play took: 0.015782
+[2019.06.25-22.47.00:802][597]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.00:804][597]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.00:808][597]LogLoad: Took 0.787753 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.47.02:970][722]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.10:980][216]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.10:980][216]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.11:800][216]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.11:804][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.11:818][216]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.11
+[2019.06.25-22.47.11:826][216]LogWorld: Bringing up level for play took: 0.019774
+[2019.06.25-22.47.11:829][216]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.11:831][216]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.11:835][216]LogLoad: Took 0.855566 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.47.13:982][344]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.21:986][788]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.21:987][788]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.22:543][788]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.22:549][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.22:563][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.22
+[2019.06.25-22.47.22:570][788]LogWorld: Bringing up level for play took: 0.019224
+[2019.06.25-22.47.22:573][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.22:577][788]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.22:581][788]LogLoad: Took 0.593835 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.47.24:734][917]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.36:789][373]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.36:855][373]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.37:371][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.37:373][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.37:384][373]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.37
+[2019.06.25-22.47.37:387][373]LogWorld: Bringing up level for play took: 0.012240
+[2019.06.25-22.47.37:389][373]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.37:390][373]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.37:391][373]LogLoad: Took 0.536504 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.47.37:395][374]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070709 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.25-22.47.37:396][374]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070709 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter2', movement 'Walking'
+[2019.06.25-22.47.39:546][504]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.47:589][939]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.47:590][939]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.48:284][939]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.48:287][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.48:297][939]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.48
+[2019.06.25-22.47.48:302][939]LogWorld: Bringing up level for play took: 0.014150
+[2019.06.25-22.47.48:304][939]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.48:305][939]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.48:307][939]LogLoad: Took 0.717874 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.47.50:465][ 65]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.47.58:470][560]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.58:470][560]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.47.59:191][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.47.59:193][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.47.59:204][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.47.59
+[2019.06.25-22.47.59:208][560]LogWorld: Bringing up level for play took: 0.012864
+[2019.06.25-22.47.59:210][560]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.47.59:211][560]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.47.59:213][560]LogLoad: Took 0.742993 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.48.01:417][671]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.48.13:422][412]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.13:423][412]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.14:078][412]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.48.14:080][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.48.14:093][412]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.48.14
+[2019.06.25-22.48.14:099][412]LogWorld: Bringing up level for play took: 0.017887
+[2019.06.25-22.48.14:103][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.48.14:104][412]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.48.14:106][412]LogLoad: Took 0.683887 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.48.16:598][523]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.48.24:609][ 17]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.24:609][ 17]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.25:379][ 17]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.48.25:382][ 17]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.48.25:400][ 17]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.48.25
+[2019.06.25-22.48.25:409][ 17]LogWorld: Bringing up level for play took: 0.023004
+[2019.06.25-22.48.25:411][ 17]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.48.25:413][ 17]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.48.25:416][ 17]LogLoad: Took 0.806100 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.48.27:998][128]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.48.36:073][579]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.36:133][579]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.36:953][579]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.48.36:956][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.48.36:969][579]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.48.36
+[2019.06.25-22.48.36:976][579]LogWorld: Bringing up level for play took: 0.018296
+[2019.06.25-22.48.36:978][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.48.36:979][579]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.48.36:982][579]LogLoad: Took 0.849295 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.48.36:988][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063913 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.25-22.48.36:988][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063913 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter2', movement 'Walking'
+[2019.06.25-22.48.39:667][614]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.48.51:659][355]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.51:659][355]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.48.52:198][355]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.48.52:201][355]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.48.52:212][355]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.48.52
+[2019.06.25-22.48.52:217][355]LogWorld: Bringing up level for play took: 0.014592
+[2019.06.25-22.48.52:219][355]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.48.52:219][355]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.48.52:221][355]LogLoad: Took 0.562463 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.48.54:618][466]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.49.02:621][961]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.02:621][961]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.03:160][961]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.49.03:163][961]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.49.03:172][961]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.49.03
+[2019.06.25-22.49.03:182][961]LogWorld: Bringing up level for play took: 0.017444
+[2019.06.25-22.49.03:184][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.49.03:184][961]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.49.03:188][961]LogLoad: Took 0.567758 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.49.05:547][ 72]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.49.13:558][461]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.13:559][461]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.14:124][461]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.49.14:126][461]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.49.14:135][461]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.49.14
+[2019.06.25-22.49.14:140][461]LogWorld: Bringing up level for play took: 0.011827
+[2019.06.25-22.49.14:141][461]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.49.14:142][461]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.49.14:144][461]LogLoad: Took 0.584265 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.49.16:523][572]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.49.28:530][242]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.28:530][242]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.29:107][242]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.49.29:109][242]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.49.29:118][242]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.49.29
+[2019.06.25-22.49.29:123][242]LogWorld: Bringing up level for play took: 0.012734
+[2019.06.25-22.49.29:125][242]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.49.29:126][242]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.49.29:128][242]LogLoad: Took 0.598171 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.49.31:559][353]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.49.39:573][848]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.39:573][848]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.40:171][848]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.49.40:173][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.49.40:182][848]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.49.40
+[2019.06.25-22.49.40:190][848]LogWorld: Bringing up level for play took: 0.015910
+[2019.06.25-22.49.40:193][848]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.49.40:195][848]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.49.40:198][848]LogLoad: Took 0.625123 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.49.42:582][959]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.49.50:586][454]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.50:586][454]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.49.51:256][454]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.49.51:259][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.49.51:269][454]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.49.51
+[2019.06.25-22.49.51:274][454]LogWorld: Bringing up level for play took: 0.013476
+[2019.06.25-22.49.51:276][454]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.49.51:277][454]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.49.51:279][454]LogLoad: Took 0.692426 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.49.53:439][566]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.49.53:439][566]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.50.05:454][ 81]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.05:455][ 81]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.05:996][ 81]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.50.05:998][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.50.06:007][ 81]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.50.06
+[2019.06.25-22.50.06:012][ 81]LogWorld: Bringing up level for play took: 0.012477
+[2019.06.25-22.50.06:014][ 81]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.50.06:015][ 81]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.50.06:017][ 81]LogLoad: Took 0.562118 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.50.08:419][192]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.50.16:438][592]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.16:438][592]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.17:074][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.50.17:076][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.50.17:088][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.50.17
+[2019.06.25-22.50.17:093][592]LogWorld: Bringing up level for play took: 0.014799
+[2019.06.25-22.50.17:095][592]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.50.17:096][592]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.50.17:098][592]LogLoad: Took 0.659900 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.50.19:546][631]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.50.27:522][950]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.27:523][950]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.28:111][950]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.50.28:113][950]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.50.28:121][950]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.50.28
+[2019.06.25-22.50.28:125][950]LogWorld: Bringing up level for play took: 0.010970
+[2019.06.25-22.50.28:127][950]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.50.28:127][950]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.50.28:129][950]LogLoad: Took 0.606342 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.50.30:286][ 76]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.50.42:337][748]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.42:367][748]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.43:070][748]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.50.43:073][748]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.50.43:093][748]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.50.43
+[2019.06.25-22.50.43:098][748]LogWorld: Bringing up level for play took: 0.021955
+[2019.06.25-22.50.43:100][748]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.50.43:101][748]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.50.43:103][748]LogLoad: Took 0.735379 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.50.45:305][859]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.50.53:305][354]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.53:305][354]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.50.54:026][354]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.50.54:029][354]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.50.54:045][354]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.50.54
+[2019.06.25-22.50.54:052][354]LogWorld: Bringing up level for play took: 0.020037
+[2019.06.25-22.50.54:054][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.50.54:055][354]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.50.54:057][354]LogLoad: Took 0.751028 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.50.56:208][474]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.51.04:244][931]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.04:298][931]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.04:865][931]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.51.04:868][931]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.51.04:879][931]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.51.04
+[2019.06.25-22.51.04:885][931]LogWorld: Bringing up level for play took: 0.015218
+[2019.06.25-22.51.04:887][931]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.51.04:888][931]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.51.04:892][931]LogLoad: Took 0.593372 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.51.07:351][966]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.51.19:309][605]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.19:310][605]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.20:101][605]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.51.20:105][605]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.51.20:117][605]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.51.20
+[2019.06.25-22.51.20:125][605]LogWorld: Bringing up level for play took: 0.017420
+[2019.06.25-22.51.20:128][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.51.20:130][605]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.51.20:133][605]LogLoad: Took 0.823618 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.51.22:668][716]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.51.30:667][211]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.30:667][211]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.31:371][211]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.51.31:374][211]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.51.31:386][211]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.51.31
+[2019.06.25-22.51.31:392][211]LogWorld: Bringing up level for play took: 0.016206
+[2019.06.25-22.51.31:397][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.51.31:398][211]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.51.31:401][211]LogLoad: Took 0.734014 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.51.33:764][322]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.51.41:777][733]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.41:777][733]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.42:296][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.51.42:298][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.51.42:307][733]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.51.42
+[2019.06.25-22.51.42:312][733]LogWorld: Bringing up level for play took: 0.012672
+[2019.06.25-22.51.42:315][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.51.42:316][733]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.51.42:318][733]LogLoad: Took 0.540113 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.51.44:687][842]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.51.56:651][503]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.56:651][503]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.51.57:289][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.51.57:292][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.51.57:302][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.51.57
+[2019.06.25-22.51.57:307][503]LogWorld: Bringing up level for play took: 0.013603
+[2019.06.25-22.51.57:310][503]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.51.57:311][503]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.51.57:312][503]LogLoad: Took 0.660826 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.51.59:707][614]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.52.07:707][109]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.07:707][109]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.08:265][109]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.52.08:267][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.52.08:276][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.52.08
+[2019.06.25-22.52.08:281][109]LogWorld: Bringing up level for play took: 0.012085
+[2019.06.25-22.52.08:283][109]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.52.08:284][109]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.52.08:285][109]LogLoad: Took 0.577684 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.52.10:596][220]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.52.18:598][715]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.18:599][715]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.19:201][715]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.52.19:203][715]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.52.19:213][715]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.52.19
+[2019.06.25-22.52.19:218][715]LogWorld: Bringing up level for play took: 0.013558
+[2019.06.25-22.52.19:221][715]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.52.19:221][715]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.52.19:224][715]LogLoad: Took 0.625304 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.52.21:455][826]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.52.33:455][569]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.33:456][569]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.34:091][569]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.52.34:094][569]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.52.34:103][569]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.52.34
+[2019.06.25-22.52.34:108][569]LogWorld: Bringing up level for play took: 0.012608
+[2019.06.25-22.52.34:110][569]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.52.34:111][569]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.52.34:113][569]LogLoad: Took 0.656248 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.52.36:461][680]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.52.44:464][175]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.44:464][175]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.44:972][175]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.52.44:974][175]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.52.44:983][175]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.52.44
+[2019.06.25-22.52.44:989][175]LogWorld: Bringing up level for play took: 0.012418
+[2019.06.25-22.52.44:990][175]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.52.44:992][175]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.52.44:993][175]LogLoad: Took 0.529020 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.52.47:212][286]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.52.55:212][781]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.55:212][781]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.52.55:794][781]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.52.55:797][781]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.52.55:808][781]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.52.55
+[2019.06.25-22.52.55:814][781]LogWorld: Bringing up level for play took: 0.014893
+[2019.06.25-22.52.55:816][781]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.52.55:818][781]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.52.55:820][781]LogLoad: Took 0.607706 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.52.58:179][892]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.53.10:239][508]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.10:300][508]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.10:804][508]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.53.10:806][508]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.53.10:817][508]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.53.10
+[2019.06.25-22.53.10:822][508]LogWorld: Bringing up level for play took: 0.013597
+[2019.06.25-22.53.10:824][508]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.53.10:825][508]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.53.10:828][508]LogLoad: Took 0.527248 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.53.10:832][509]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065447 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2019.06.25-22.53.10:832][509]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065447 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter2', movement 'Walking'
+[2019.06.25-22.53.12:999][619]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.53.20:998][114]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.20:999][114]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.21:523][114]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.53.21:525][114]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.53.21:535][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.53.21
+[2019.06.25-22.53.21:540][114]LogWorld: Bringing up level for play took: 0.012697
+[2019.06.25-22.53.21:553][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.53.21:554][114]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.53.21:557][114]LogLoad: Took 0.557199 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.53.23:716][226]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.53.31:725][721]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.31:725][721]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.32:382][721]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.53.32:387][721]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.53.32:398][721]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.53.32
+[2019.06.25-22.53.32:407][721]LogWorld: Bringing up level for play took: 0.018098
+[2019.06.25-22.53.32:409][721]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.53.32:410][721]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.53.32:412][721]LogLoad: Took 0.686712 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.53.34:572][843]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.53.46:574][586]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.46:575][586]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.47:189][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.53.47:191][586]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.53.47:209][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.53.47
+[2019.06.25-22.53.47:214][586]LogWorld: Bringing up level for play took: 0.020127
+[2019.06.25-22.53.47:217][586]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.53.47:218][586]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.53.47:222][586]LogLoad: Took 0.647903 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.53.49:375][706]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.53.57:377][200]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.57:378][200]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.53.57:942][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.53.57:945][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.53.57:952][200]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.53.57
+[2019.06.25-22.53.57:957][200]LogWorld: Bringing up level for play took: 0.011332
+[2019.06.25-22.53.57:959][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.53.57:960][200]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.53.57:961][200]LogLoad: Took 0.584105 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.54.00:116][327]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.54.08:166][737]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.08:216][737]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.08:850][737]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.54.08:853][737]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.54.08:865][737]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.54.08
+[2019.06.25-22.54.08:869][737]LogWorld: Bringing up level for play took: 0.013310
+[2019.06.25-22.54.08:871][737]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.54.08:871][737]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.54.08:873][737]LogLoad: Took 0.657905 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.54.11:041][775]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.54.23:037][410]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.23:037][410]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.23:698][410]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.54.23:700][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.54.23:711][410]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.54.23
+[2019.06.25-22.54.23:716][410]LogWorld: Bringing up level for play took: 0.013786
+[2019.06.25-22.54.23:718][410]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.54.23:719][410]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.54.23:720][410]LogLoad: Took 0.683854 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.54.25:870][524]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.54.33:869][ 19]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.33:870][ 19]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.34:466][ 19]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.54.34:468][ 19]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.54.34:477][ 19]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.54.34
+[2019.06.25-22.54.34:481][ 19]LogWorld: Bringing up level for play took: 0.011627
+[2019.06.25-22.54.34:483][ 19]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.54.34:483][ 19]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.54.34:487][ 19]LogLoad: Took 0.616374 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.54.36:645][142]LogMaterial: Warning: Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.06.25-22.54.36:645][142]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.06.25-22.54.44:646][638]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.44:646][638]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.45:255][638]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.54.45:259][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.54.45:268][638]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.54.45
+[2019.06.25-22.54.45:275][638]LogWorld: Bringing up level for play took: 0.013384
+[2019.06.25-22.54.45:276][638]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.54.45:278][638]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.54.45:280][638]LogLoad: Took 0.633584 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.54.47:429][762]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.54.59:438][503]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.54.59:438][503]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.00:041][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.00:043][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.00:054][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.00
+[2019.06.25-22.55.00:060][503]LogWorld: Bringing up level for play took: 0.015028
+[2019.06.25-22.55.00:063][503]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.00:064][503]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.00:067][503]LogLoad: Took 0.628757 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.55.02:223][631]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.55.10:232][125]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.10:232][125]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.10:784][125]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.10:786][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.10:795][125]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.10
+[2019.06.25-22.55.10:799][125]LogWorld: Bringing up level for play took: 0.011642
+[2019.06.25-22.55.10:801][125]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.10:801][125]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.10:803][125]LogLoad: Took 0.571079 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.55.12:948][243]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.55.20:962][738]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.20:962][738]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.21:652][738]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.21:655][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.21:670][738]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.21
+[2019.06.25-22.55.21:677][738]LogWorld: Bringing up level for play took: 0.017009
+[2019.06.25-22.55.21:680][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.21:681][738]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.21:683][738]LogLoad: Took 0.721122 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.55.23:827][858]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.55.35:831][601]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.35:832][601]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.36:429][601]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.36:432][601]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.36:446][601]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.36
+[2019.06.25-22.55.36:451][601]LogWorld: Bringing up level for play took: 0.016224
+[2019.06.25-22.55.36:453][601]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.36:453][601]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.36:456][601]LogLoad: Took 0.624724 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.55.38:613][714]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.55.46:613][209]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.46:613][209]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.47:176][209]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.47:178][209]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.47:188][209]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.47
+[2019.06.25-22.55.47:192][209]LogWorld: Bringing up level for play took: 0.011101
+[2019.06.25-22.55.47:194][209]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.47:194][209]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.47:196][209]LogLoad: Took 0.583552 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.55.49:352][329]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.55.57:356][824]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.57:357][824]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.55.57:970][824]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.55.57:972][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.55.57:981][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.55.57
+[2019.06.25-22.55.57:986][824]LogWorld: Bringing up level for play took: 0.012365
+[2019.06.25-22.55.57:988][824]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.55.57:989][824]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.55.57:991][824]LogLoad: Took 0.633853 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.56.00:144][947]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.56.12:145][690]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.12:145][690]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.12:715][690]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.56.12:718][690]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.56.12:733][690]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.56.12
+[2019.06.25-22.56.12:739][690]LogWorld: Bringing up level for play took: 0.017653
+[2019.06.25-22.56.12:741][690]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.56.12:741][690]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.56.12:744][690]LogLoad: Took 0.598660 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.56.14:904][817]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.56.22:904][312]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.22:905][312]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.23:430][312]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.56.23:432][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.56.23:450][312]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.56.23
+[2019.06.25-22.56.23:457][312]LogWorld: Bringing up level for play took: 0.022775
+[2019.06.25-22.56.23:459][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.56.23:460][312]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.56.23:462][312]LogLoad: Took 0.556123 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.56.25:616][441]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.56.33:616][933]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.33:616][933]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.34:361][933]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.56.34:364][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.56.34:373][933]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.56.34
+[2019.06.25-22.56.34:378][933]LogWorld: Bringing up level for play took: 0.012456
+[2019.06.25-22.56.34:380][933]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.56.34:381][933]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.56.34:391][933]LogLoad: Took 0.774740 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.56.36:544][ 57]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.56.48:597][593]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.48:632][593]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.49:249][593]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.56.49:253][593]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.56.49:262][593]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.56.49
+[2019.06.25-22.56.49:268][593]LogWorld: Bringing up level for play took: 0.012726
+[2019.06.25-22.56.49:270][593]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.56.49:271][593]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.56.49:273][593]LogLoad: Took 0.641338 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.56.51:439][674]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
+[2019.06.25-22.56.59:445][165]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.56.59:446][165]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.06.25-22.57.00:012][165]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.25-22.57.00:016][165]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.25-22.57.00:030][165]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.25-17.57.00
+[2019.06.25-22.57.00:036][165]LogWorld: Bringing up level for play took: 0.018230
+[2019.06.25-22.57.00:038][165]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.25-22.57.00:039][165]LogUMG: Display: Widget Class Scores_C - Loaded Fast Template.
+[2019.06.25-22.57.00:044][165]LogLoad: Took 0.598564 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.06.25-22.57.02:192][287]LogMaterial: Had to pass SMU back to game thread. Please ensure correct material usage flags.
